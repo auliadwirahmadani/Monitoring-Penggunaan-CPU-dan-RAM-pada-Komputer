@@ -1,0 +1,9 @@
+# Runtime cache data
+data/*.json
+!data/.gitkeep
+
+# Temp / Log files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
